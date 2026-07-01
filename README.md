@@ -25,10 +25,6 @@ https://www.globalepiccreation.com/
 * HTML5
 * CSS3
 
-## 📷 Preview
-
-Add screenshots of the homepage here.
-
 ## 👩‍💻 Developed By
 
 Shiza Imran
